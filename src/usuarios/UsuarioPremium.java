@@ -1,5 +1,4 @@
 package usuarios;
-import java.util.Date;
 public class UsuarioPremium extends Usuario {
     private boolean Premium;
 
